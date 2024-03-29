@@ -1,7 +1,7 @@
 import React from 'react'
 
 function DataLoad() {
-  return <div>DataLoad!!!!</div>
+  return <div>DataLoad from server!</div>
 }
 
 export default DataLoad
